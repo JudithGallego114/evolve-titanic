@@ -1,1 +1,5 @@
-Documentación del producto
+# Documentación del producto
+
+## Objetivo
+
+## Datos
